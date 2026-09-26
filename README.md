@@ -42,7 +42,7 @@ Para construir las imágenes, inicializar MongoDB y levantar la API en un solo c
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL_DE_TU_REPOSITORIO>
+git clone <(https://github.com/DavidValencia96/franquicias-api)>
 
 # 2. Navegar a la carpeta del proyecto
 cd franquicias-api
